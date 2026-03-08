@@ -1,2 +1,2 @@
-# c-
-simple projects using cpp for practice
+# cpp
+projects using cpp for practice
